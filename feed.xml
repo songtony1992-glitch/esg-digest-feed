@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>ESG 데일리 다이제스트</title>
+    <link>https://songtony1992-glitch.github.io/esg-digest-feed/</link>
+    <description>ESG 데일리 다이제스트 아카이브</description>
+    <language>ko</language>
+    <lastBuildDate>Fri, 10 Jul 2026 09:02:17 +0000</lastBuildDate>
+    <item>
+      <title>ESG 데일리 다이제스트 — 2026-07-08</title>
+      <link>https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-07-08.html</link>
+      <guid isPermaLink="true">https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-07-08.html</guid>
+      <pubDate>Wed, 08 Jul 2026 08:00:00 +0900</pubDate>
+      <description>[금융위원회] 지속가능성(ESG) 공시 제도화 방안 최종안 발표</description>
+    </item>
+  </channel>
+</rss>
