@@ -5,7 +5,14 @@
     <link>https://songtony1992-glitch.github.io/esg-digest-feed/</link>
     <description>ESG 데일리 다이제스트 아카이브</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 12 Jul 2026 23:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 00:21:10 +0000</lastBuildDate>
+    <item>
+      <title>ESG 데일리 다이제스트 — 2026-07-13</title>
+      <link>https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-07-13.html</link>
+      <guid isPermaLink="true">https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-07-13.html</guid>
+      <pubDate>Mon, 13 Jul 2026 08:00:00 +0900</pubDate>
+      <description>이 항목은 MS Teams Workflows RSS 연동이 새 게시물을 정상적으로 감지하는지 확인하기 위한 테스트입니다. 실제 ESG 뉴스 내용이 아니며, 내일 정상 루틴이 실행되면 같은 날짜의 진짜 다이제스트로 자동 교체됩니다.</description>
+    </item>
     <item>
       <title>ESG 데일리 다이제스트 — 2026-07-12</title>
       <link>https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-07-12.html</link>
