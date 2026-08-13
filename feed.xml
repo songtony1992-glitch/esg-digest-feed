@@ -5,7 +5,14 @@
     <link>https://songtony1992-glitch.github.io/esg-digest-feed/</link>
     <description>ESG 데일리 다이제스트 아카이브</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 12 Aug 2026 23:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 23:16:16 +0000</lastBuildDate>
+    <item>
+      <title>ESG 데일리 다이제스트 — 2026-08-14</title>
+      <link>https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-08-14.html</link>
+      <guid isPermaLink="true">https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-08-14.html</guid>
+      <pubDate>Fri, 14 Aug 2026 08:00:00 +0900</pubDate>
+      <description>한국 등 아시아 수출업체 CBAM 부담 "우려보다 덜 심각"</description>
+    </item>
     <item>
       <title>ESG 데일리 다이제스트 — 2026-08-12</title>
       <link>https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-08-12.html</link>
@@ -208,13 +215,6 @@
       <guid isPermaLink="true">https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-07-10.html</guid>
       <pubDate>Fri, 10 Jul 2026 08:00:00 +0900</pubDate>
       <description>스코프3 장기 유예, 새로운 형태의 ‘코리아 디스카운트’ 우려</description>
-    </item>
-    <item>
-      <title>ESG 데일리 다이제스트 — 2026-07-09</title>
-      <link>https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-07-09.html</link>
-      <guid isPermaLink="true">https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-07-09.html</guid>
-      <pubDate>Thu, 09 Jul 2026 08:00:00 +0900</pubDate>
-      <description>[금융위] ESG 공시 제도화 방안 최종안 발표 — 2028년(FY27) 10조원 이상 코스피 상장사부터 의무화</description>
     </item>
   </channel>
 </rss>
