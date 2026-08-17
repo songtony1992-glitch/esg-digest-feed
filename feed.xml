@@ -5,7 +5,14 @@
     <link>https://songtony1992-glitch.github.io/esg-digest-feed/</link>
     <description>ESG 데일리 다이제스트 아카이브</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 14 Aug 2026 23:10:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 23:07:33 +0000</lastBuildDate>
+    <item>
+      <title>ESG 데일리 다이제스트 — 2026-08-17</title>
+      <link>https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-08-17.html</link>
+      <guid isPermaLink="true">https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-08-17.html</guid>
+      <pubDate>Mon, 17 Aug 2026 08:00:00 +0900</pubDate>
+      <description>美, EU 지속가능성 공시규정(CSRD·CSDDD) 완화 압박…"필요한 모든 조치 취하겠다"</description>
+    </item>
     <item>
       <title>ESG 데일리 다이제스트 — 2026-08-14</title>
       <link>https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-08-14.html</link>
@@ -208,13 +215,6 @@
       <guid isPermaLink="true">https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-07-12.html</guid>
       <pubDate>Sun, 12 Jul 2026 08:00:00 +0900</pubDate>
       <description>EU, CSRD 지속가능성 공시기준 최종 채택 + CBAM 적용 품목 확대 의결</description>
-    </item>
-    <item>
-      <title>ESG 데일리 다이제스트 — 2026-07-10</title>
-      <link>https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-07-10.html</link>
-      <guid isPermaLink="true">https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-07-10.html</guid>
-      <pubDate>Fri, 10 Jul 2026 08:00:00 +0900</pubDate>
-      <description>스코프3 장기 유예, 새로운 형태의 ‘코리아 디스카운트’ 우려</description>
     </item>
   </channel>
 </rss>
