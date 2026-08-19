@@ -5,7 +5,14 @@
     <link>https://songtony1992-glitch.github.io/esg-digest-feed/</link>
     <description>ESG 데일리 다이제스트 아카이브</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 18 Aug 2026 23:08:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:09:17 +0000</lastBuildDate>
+    <item>
+      <title>ESG 데일리 다이제스트 — 2026-08-19</title>
+      <link>https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-08-19.html</link>
+      <guid isPermaLink="true">https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-08-19.html</guid>
+      <pubDate>Wed, 19 Aug 2026 08:00:00 +0900</pubDate>
+      <description>EU, CBAM 확정기간 이행 가이드 공개…수출기업 탄소데이터 관리 더 까다로워져</description>
+    </item>
     <item>
       <title>ESG 데일리 다이제스트 — 2026-08-18</title>
       <link>https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-08-18.html</link>
@@ -208,13 +215,6 @@
       <guid isPermaLink="true">https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-07-14.html</guid>
       <pubDate>Tue, 14 Jul 2026 08:00:00 +0900</pubDate>
       <description>한국 금융위, 지속가능성 공시 의무화 대상 확대 로드맵 확정</description>
-    </item>
-    <item>
-      <title>ESG 데일리 다이제스트 — 2026-07-13</title>
-      <link>https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-07-13.html</link>
-      <guid isPermaLink="true">https://songtony1992-glitch.github.io/esg-digest-feed/digest/2026-07-13.html</guid>
-      <pubDate>Mon, 13 Jul 2026 08:00:00 +0900</pubDate>
-      <description>기업 ESG 동력, '글로벌 규제 압박'이 1순위로…10년 새 31%에서 76%</description>
     </item>
   </channel>
 </rss>
